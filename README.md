@@ -1,4 +1,7 @@
-### 👋 Hi there I'm Shaya 
+<div align="center">
+  <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+</div>
+## 👋 Hi there, I'm Shaya 
 Hi, I'm Shaya Ulman, a passionate self-taught full-stack web developer from 🇮🇱.
 
 ![Shaya's github stats](https://github-readme-stats.vercel.app/api?username=shayaulman&theme=radical)
